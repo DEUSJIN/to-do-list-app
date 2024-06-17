@@ -3,8 +3,8 @@
     font-family: SFS;
 }
 @font-face {
-    src: url("fonts/Montserrat-Bold.ttf");
-    font-family: mont;
+    src: url("fonts/汉呈王天喜颜体(商用需授权).ttf");
+    font-family: yan;
 }
 .container {
     background-color: blanchedalmond;
@@ -19,7 +19,7 @@
 
 .task {
     color: black;
-    font-family: mont, sans-serif;
+    font-family: yan, sans-serif;
 }
 
 #tile {
