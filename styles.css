@@ -1,0 +1,47 @@
+@font-face {
+    src: url("fonts/SFSportsNight.ttf");
+    font-family: SFS;
+}
+@font-face {
+    src: url("fonts/Montserrat-Bold.ttf");
+    font-family: monster;
+}
+.container {
+    background-color: blanchedalmond;
+    padding: 20px 10px;
+    text-align: center;
+    margin: 40px auto;
+    width: 400px;
+    border: 2px solid dimgray;
+    border-radius: 5px;
+}
+
+
+.task {
+    color: black;
+    font-family: monster, sans-serif;
+}
+
+#tile {
+    font-family: SFS, Arial, sans-serif;
+    text-shadow: 2px 2px 2px silver;
+}
+
+button {
+    padding: 2px 6px;
+    margin: 3px 8px 0 8px;
+    color: antiquewhite;
+    background-color: green;
+    border-radius: 2px;
+}
+
+.edit_btn {
+    margin: 0 0;
+    background-color: cornflowerblue;
+}
+
+.delete_btn {
+    margin: 0 0;
+    background-color: crimson;
+}
+
